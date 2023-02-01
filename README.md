@@ -1,1 +1,2 @@
-# FDSfE_AStevenosky  repo for Foundations of Data Science
+# FDSfE_AStevenosky  
+#  Repo for Foundations of Data Science
